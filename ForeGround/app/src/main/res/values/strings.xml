@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ForeGround</string>
+    <string name="edit_intent">Data intent</string>
+    <string name="btn_start">Start Service</string>
+    <string name="btn_stop">Stop Service</string>
+    <string name="title">Music</string>
+    <string name="singer">Thang</string>
+</resources>
